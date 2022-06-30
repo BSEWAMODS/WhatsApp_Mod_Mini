@@ -1,1 +1,11 @@
+{"version_code":221376002,"content":"
+<p>Update WhatsApp Mod Mini</p>
 
+
+<li>New Based on Base updated to 2.22.13.76 (PlayStore)</li>
+
+
+
+
+","url":"https://t.me/whatsapp_mod_mini"
+}
