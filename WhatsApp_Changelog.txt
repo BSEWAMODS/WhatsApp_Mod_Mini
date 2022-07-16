@@ -1,11 +1,15 @@
-{"version_code":221376002,"content":"
-<p>Update WhatsApp Mod Mini</p>
+{"version_code":221474002,"content":"
+<p>Update WhatsApp Mod Mini V1.50</p>
 
 
-<li>New Based on Base updated to 2.22.13.76 (PlayStore)</li>
+<li>New Based on Base updated to 2.22.14.74 (PlayStore)</li>
+<li>[Added] Option to mark status as seen</li>
+<li>[Added] Option to disable the internet in the application</li>
+<li>[Added] Possibility to pin more than three conversations</li>
+<li>[New] Configuration menu whatsapp mod mini translated into Spanish and Portuguese</li>
 
 
 
 
-","url":"https://t.me/whatsapp_mod_mini"
+","url":"https://t.me/whatsapp_mod_mini/12"
 }
