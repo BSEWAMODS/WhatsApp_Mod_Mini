@@ -1,11 +1,12 @@
-{"version_code":221474003,"content":"
-<p>Update WhatsApp Mod Mini V1.55</p>
+{"version_code":221574002,"content":"
+<p>Update WhatsApp Mod Mini V2.00</p>
 
 
-<li>[Fixed] Black screen when activating the option show blue ticks after responding</li>
+<li>New Based updated to 2.22.15.74 (PlayStore)</li>
+<li>[Added] Multi accounts [Beta]</li>
 
 
 
 
-","url":"https://t.me/whatsapp_mod_mini/17"
+","url":"https://t.me/whatsapp_mod_mini/27"
 }
